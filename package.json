@@ -2,8 +2,7 @@
   "name": "currently-data",
   "version": "0.0.1",
   "dependencies": {
-    "express": "*",
-    "mongoose": "*"
+    "express": "*"
   },
   "engines": {
     "node": "0.10.x"
