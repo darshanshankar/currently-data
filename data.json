@@ -4,9 +4,10 @@
     "image":"https://github.com/darshanshankar/currently-data/raw/FAKEURL.jpg",
      "hasVerb":true,
     "hasLocation":true,
-    "hasNoun":false,
-    "verb":"working",
-    "location":"Starbucks"
+    "hasNoun":true,
+    "verb":"playing",
+    "noun":"video games",
+    "location":"Home"
   },
   {
     "name":"Steve",
