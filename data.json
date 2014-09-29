@@ -1,0 +1,48 @@
+[
+  {
+    "name":"Darshan",
+    "image":"https://github.com/darshanshankar/currently-data/raw/FAKEURL.jpg",
+     "hasVerb":true,
+    "hasLocation":true,
+    "hasNoun":false,
+    "verb":"working",
+    "location":"Starbucks"
+  },
+  {
+    "name":"Steve",
+    "image":"https://github.com/darshanshankar/currently-data/raw/FAKEURL.jpg",
+    "hasVerb":true,
+    "hasLocation":true,
+    "hasNoun":false,
+    "verb":"sleeping",
+    "location":"Home"
+  },
+  {
+    "name":"Marc",
+    "image":"https://github.com/darshanshankar/currently-data/raw/FAKEURL.jpg",
+    "hasVerb":true,
+    "hasLocation":false,
+    "hasNoun":true,
+    "verb":"reading",
+    "noun":"Zero to One"
+  },
+  {
+    "name":"Bill",
+    "image":"https://github.com/darshanshankar/currently-data/raw/FAKEURL.jpg",
+    "hasVerb":true,
+    "hasLocation":false,
+    "hasNoun":true,
+    "verb":"listening to",
+    "noun":"Heartless - Kanye West"
+  },
+  {
+    "name":"Tom",
+    "image":"https://github.com/darshanshankar/currently-data/raw/FAKEURL.jpg",
+    "hasVerb":true,
+    "hasLocation":true,
+    "hasNoun":true,
+    "verb":"watching",
+    "noun":"Game of Thrones",
+    "location":"Home"
+  }
+]
