@@ -2,7 +2,7 @@
   {
     "name":"Darshan",
     "image":"https://github.com/darshanshankar/currently-data/raw/FAKEURL.jpg",
-     "hasVerb":true,
+    "hasVerb":true,
     "hasLocation":true,
     "hasNoun":true,
     "verb":"playing",
